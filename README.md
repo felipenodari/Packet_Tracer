@@ -1,5 +1,5 @@
 # Packet_Tracer
-Simulação usando a ferramenta Packet Tracer de como criar a conectividade entre duas redes de uma mesma empresa que esta com a matriz e sua filial em cidades diferentes
+Simulação usando a ferramenta Packet Tracer de como criar a conectividade entre duas redes de uma mesma empresa entre sua matriz e filial, localizadas em cidades diferentes
 -> Uso de:
     Roteadores
     Switches
